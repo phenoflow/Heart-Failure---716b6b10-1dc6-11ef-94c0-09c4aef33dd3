@@ -1,0 +1,120 @@
+potentialCases:
+  class: File
+  path: replaceMe.csv
+inputModule1:
+  class: File
+  path: python/read-potential-cases.py
+inputModule2:
+  class: File
+  path: python/heart-failure-fatalnon-fatal-cardiac---primary.py
+inputModule3:
+  class: File
+  path: python/heart-failure-fatalnon-fatal-dissent---primary.py
+inputModule4:
+  class: File
+  path: python/heart-failure-fatalnon-fatal-review---primary.py
+inputModule5:
+  class: File
+  path: python/heart-failure-fatalnon-fatal-pulmonale---primary.py
+inputModule6:
+  class: File
+  path: python/chronic-heart-failure-fatalnon-fatal---primary.py
+inputModule7:
+  class: File
+  path: python/heart-failure-fatalnonfatal---primary.py
+inputModule8:
+  class: File
+  path: python/heart-failure-fatalnon-fatal-malignant---primary.py
+inputModule9:
+  class: File
+  path: python/right-heart-failure-fatalnon-fatal---primary.py
+inputModule10:
+  class: File
+  path: python/acute-heart-failure-fatalnon-fatal---primary.py
+inputModule11:
+  class: File
+  path: python/hypertensive-heart-failure-fatalnon-fatal---primary.py
+inputModule12:
+  class: File
+  path: python/congestive-heart-failure-fatalnon-fatal---primary.py
+inputModule13:
+  class: File
+  path: python/diastolic-heart-failure-fatalnon-fatal---primary.py
+inputModule14:
+  class: File
+  path: python/cardiomyopathy-heart-failure-fatalnon-fatal---primary.py
+inputModule15:
+  class: File
+  path: python/ventricular-heart-failure-fatalnon-fatal---primary.py
+inputModule16:
+  class: File
+  path: python/heart-failure-fatalnon-fatal-specified---primary.py
+inputModule17:
+  class: File
+  path: python/systolic-heart-failure-fatalnon-fatal---primary.py
+inputModule18:
+  class: File
+  path: python/heart---primary.py
+inputModule19:
+  class: File
+  path: python/heart-failure-fatalnon-fatal-shows---primary.py
+inputModule20:
+  class: File
+  path: python/heart-failure-fatalnon-fatal-administration---primary.py
+inputModule21:
+  class: File
+  path: python/heart-failure-fatalnon-fatal-third---primary.py
+inputModule22:
+  class: File
+  path: python/clinic-heart-failure-fatalnon-fatal---primary.py
+inputModule23:
+  class: File
+  path: python/heart-failure-fatalnon-fatal-oedema---primary.py
+inputModule24:
+  class: File
+  path: python/patient-heart-failure-fatalnon-fatal---primary.py
+inputModule25:
+  class: File
+  path: python/heart-failure-fatalnon-fatal-assoc---primary.py
+inputModule26:
+  class: File
+  path: python/heart-failure-fatalnon-fatal-telephone---primary.py
+inputModule27:
+  class: File
+  path: python/heart-failure-fatalnon-fatal-second---primary.py
+inputModule28:
+  class: File
+  path: python/heart-failure-fatalnon-fatal-practice---primary.py
+inputModule29:
+  class: File
+  path: python/heart-failure-fatalnon-fatal-hypostasis---primary.py
+inputModule30:
+  class: File
+  path: python/heart-failure-fatalnon-fatal-verbal---primary.py
+inputModule31:
+  class: File
+  path: python/heart-failure-fatalnon-fatal-reporting---primary.py
+inputModule32:
+  class: File
+  path: python/heart-failure-fatalnon-fatal-attend---primary.py
+inputModule33:
+  class: File
+  path: python/heart-failure-fatalnon-fatal-first---primary.py
+inputModule34:
+  class: File
+  path: python/heart-failure-fatalnon-fatal-nurse---primary.py
+inputModule35:
+  class: File
+  path: python/heart-failure-fatalnon-fatal-referred---primary.py
+inputModule36:
+  class: File
+  path: python/heart-failure-fatalnon-fatal-education---primary.py
+inputModule37:
+  class: File
+  path: python/heart-failure-fatalnon-fatal-congestion---primary.py
+inputModule38:
+  class: File
+  path: python/renal-heart-failure-fatalnon-fatal---primary.py
+inputModule39:
+  class: File
+  path: python/output-cases.py
